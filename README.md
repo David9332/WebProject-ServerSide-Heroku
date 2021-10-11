@@ -1,2 +1,2 @@
 # CouponSystem-WebProject-ServerSide
-The herpku server side of the coupon website
+The heroku server side of the coupon website
